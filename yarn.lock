@@ -1150,8 +1150,8 @@ debug@=3.1.0, debug@~3.1.0:
   dependencies:
     ms "2.0.0"
 
-debug@^2.2.0:
-  version "2.2.0"
+debug@^2.6.9:
+  version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.2.0.tgz#f87057e995b1a1f6ae6a4960664137bc56f039da"
   dependencies:
     ms "0.7.1"
@@ -1848,7 +1848,7 @@ fill-range@^2.1.0:
   dependencies:
     is-number "^2.1.0"
     isobject "^2.0.0"
-    randomatic "^3.0.0"
+    randomatic "^1.1.3"
     repeat-element "^1.1.2"
     repeat-string "^1.5.2"
 
@@ -3296,7 +3296,7 @@ lodash@^4.0.0, lodash@^4.13.1:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
-lodash@^4.17.10:
+lodash@^4.17.11:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
@@ -4307,8 +4307,8 @@ query-string@^5.0.1:
     object-assign "^4.1.0"
     strict-uri-encode "^1.0.0"
 
-randomatic@^1.1.3:
-  version "1.1.6"
+randomatic@^3.0.0:
+  version "3.0.0"
   resolved "https://registry.yarnpkg.com/randomatic/-/randomatic-1.1.6.tgz#110dcabff397e9dcff7c0789ccc0a49adf1ec5bb"
   dependencies:
     is-number "^2.0.2"
@@ -4959,8 +4959,8 @@ squeak@^1.0.0:
     console-stream "^0.1.1"
     lpad-align "^1.0.1"
 
-sshpk@^1.7.0:
-  version "1.10.2"
+sshpk@^1.13.2:
+  version "1.13.2"
   resolved "https://registry.yarnpkg.com/sshpk/-/sshpk-1.10.2.tgz#d5a804ce22695515638e798dbe23273de070a5fa"
   dependencies:
     asn1 "~0.2.3"
